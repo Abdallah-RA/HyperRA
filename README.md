@@ -40,6 +40,7 @@ HyperRA consists of three main components:
 ## System Design
 
 
+![Blank diagram (1)](https://github.com/user-attachments/assets/f6db35de-1477-41e8-8320-b928e410e90d)
 
 
 
